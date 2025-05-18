@@ -1,20 +1,13 @@
 <template>
-  <div>
-    <FirstComponent />
-    <life-cycle />
-  </div>
-
+    <section>
+        
+    </section>
 </template>
-
+  
 <script>
-  import FirstComponent from './components/FirstComponent.vue'
-  import LifeCycle from './components/LifeCycle.vue'
 
-  export default {
-    name: 'App',
-    components: {
-      FirstComponent,
-      LifeCycle
-    }
-  }
 </script>
+  
+<style>
+
+</style>
