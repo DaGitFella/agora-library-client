@@ -10,13 +10,13 @@ empréstimo de livros com facilidade e uma ótima experiência de usuário.
 ## 🚀 Tecnologias
 
 - **Backend**: [FastAPI](https://fastapi.tiangolo.com/) — para APIs rápidas, seguras e performáticas.
-- **Frontend**: [Vue.js](https://vuejs.org/) — para uma interface interativa e responsiva.
+- **Frontend**: [Vue.js 3 + Vite](https://vuejs.org/) — para uma interface interativa e responsiva.
 
 ---
 
 ## 👨‍💻 Equipe
 
-| Nome    | Função                         |
+| Nome    | Função                          |
 |---------|---------------------------------|
 | Lucas   | Design e Frontend               |
 | Davi    | Backend e Frontend              |
@@ -40,3 +40,28 @@ Distribuído sob a Licença **GPL v3**.
 Consulte o arquivo LICENSE para mais detalhes.
 
 ---
+
+## ⚙️ Configuração do Projeto (Frontend)
+
+Pré-requisitos
+- Node.js
+- Usar VSCode com a extensão Volar (desative o Vetur, caso ativo)
+
+**Instalação**
+```sh
+npm install
+npm install -g @vue/cli    
+```
+
+**Rodar em modo desenvolvimento (Hot-Reload)**
+```sh
+npm run dev
+npm run server
+```
+
+**Compilar e minificar para produção**
+```sh
+npm run build
+```
+
+Para configurações avançadas, veja a documentação do **Vite**(https://vite.dev/config/).
