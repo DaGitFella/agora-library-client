@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/inter": "^5.2.5",
+    "@fontsource/merriweather": "^5.2.7",
+    "@fontsource/playfair-display-sc": "^5.2.5",
     "@tailwindcss/vite": "^4.1.7",
     "oh-vue-icons": "^1.0.0-rc3",
     "tailwindcss": "^4.1.7",

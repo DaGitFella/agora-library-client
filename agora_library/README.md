@@ -14,6 +14,7 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ```sh
 npm install
+npm install oh-vue-icons
 ```
 
 ### Compile and Hot-Reload for Development

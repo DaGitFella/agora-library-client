@@ -8,16 +8,17 @@
             label = 'Senha'
             placeH = 'Insira a Senha'
         />
-        <button>login</button>
+        <Submit/>
     </section>
 </template>
   
 <script>
 import InputText from './InputText.vue';
+import Submit from './Submit.vue';
     export default {
         name:'App',
         components: {
-            InputText
+            InputText, Submit
         },
     }
 </script>
