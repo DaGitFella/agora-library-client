@@ -50,13 +50,11 @@ Pré-requisitos
 **Instalação**
 ```sh
 npm install
-npm install -g @vue/cli    
 ```
 
 **Rodar em modo desenvolvimento (Hot-Reload)**
 ```sh
 npm run dev
-npm run server
 ```
 
 **Compilar e minificar para produção**
