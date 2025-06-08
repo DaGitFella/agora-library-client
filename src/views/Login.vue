@@ -12,8 +12,8 @@
 </template>
   
 <script>
-import BackgroundLogin from 'src/components/BackgroundLogin.vue';
-import Form from 'src/components/Form/Form.vue';
+import BackgroundLogin from '../components/BackgroundLogin.vue';
+import Form from '../components/Form/Form.vue';
     export default {
         name:'App',
         components: {
